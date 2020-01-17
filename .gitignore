@@ -1,3 +1,4 @@
 *.dat
+*.nc
 plots/
 results/
